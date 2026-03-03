@@ -126,7 +126,7 @@ The Shiny interface communicates directly with the Python backend using the `ret
 Below is a screenshot of the application interface:
 
 <p align="center">
-  <img src="figures/ISMP.png" width="900">
+  <img src="figures/ISMP.JPG" width="900">
 </p>
 
 ---
